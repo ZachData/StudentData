@@ -20,7 +20,9 @@ Extracurricular Activities, Parental Support, and Tutoring: Following absences, 
 Actionable Insights: The findings suggest that schools can directly impact student performance by focusing on attendance and encouraging participation in extracurricular activities. This underscores the importance of fostering student engagement through both in-class attendance and extracurricular involvement.
 
 ## Visualizations
-
+![Chart 1](im1.png)
+![Chart 2](im2.png)
+![Chart 3](im3.png)
 
 ## Conclusion
 The analysis reveals that several factors contribute to academic success, with school attendance and extracurricular participation being the most critical. Schools should prioritize strategies that improve attendance and promote extracurricular involvement, as these are strongly correlated with higher GPA. One possible explanation for the importance of extracurricular activities is their role in fostering teamwork and school engagement, which in turn may reduce absenteeism. Additionally, while solitary study is important, the data suggests that the collective benefits of extracurricular participation may have a more substantial impact on academic achievement.
